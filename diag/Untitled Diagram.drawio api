@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-18T17:52:19.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="95RKPzDsaPnvZlzE67n0" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-18T17:53:08.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="xkhCLHa_3R1Fr7SauKRI" version="20.3.2" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -151,8 +151,8 @@
         <mxCell id="W4gaZ-RaCxXiWqPxE2wz-256" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="401" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W4gaZ-RaCxXiWqPxE2wz-257" value="Booking API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="426" y="45" width="70" height="30" as="geometry" />
+        <mxCell id="W4gaZ-RaCxXiWqPxE2wz-257" value="Get Price API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="45" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W4gaZ-RaCxXiWqPxE2wz-258" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="499.75" y="40" width="21.25" height="20" as="geometry" />
